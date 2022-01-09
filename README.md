@@ -9,3 +9,7 @@
     <img src="im/instagram.png" width=5% height=5%> 
 </p>
 
+## **insterests and projects**
+🚀 Aerospace 
+🤖 Robotics 
+🧠 Machine Learning
